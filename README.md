@@ -38,7 +38,9 @@ If you want to run this web app on your own computer, please follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/你的帳號/NBA-Star-Face-Classifier.git](https://github.com/你的帳號/NBA-Star-Face-Classifier.git)
+   git clone https://github.com/Sam-hana/NBA-Star-Face-Classifier.git
+   ```
+   ```bash
    cd NBA-Star-Face-Classifier
    ```
 
